@@ -2,9 +2,7 @@
 
 ![Profile](https://i.imgur.com/jIRqMoG.png)
 
- <img  src="https://github-readme-stats.vercel.app/api?username=abdomashael&count_private=true&show_icons=true&theme=tokyonight" alt="abdomashael" />
-
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdomashael&theme=tokyonight&layout=compact)" alt="abdomashael" />
+ <img  src="https://github-readme-stats.vercel.app/api?username=abdomashael&count_private=true&show_icons=true&theme=tokyonight" alt="abdomashael" /><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdomashael&theme=tokyonight&layout=compact" alt="abdomashael" />
 
 
 
