@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile](https://www.canva.com/design/DAEEC33K5dY/MSd0h4c_tO9M8N-zuKGo9w/view?utm_content=DAEEC33K5dY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![Profile](https://i.imgur.com/jIRqMoG.png)
 
 <!--
 **abdomashael/abdomashael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
